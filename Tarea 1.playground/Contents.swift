@@ -1,4 +1,4 @@
-//: Playground - noun: a place where people can play test
+//: Playground - noun: a place where people can play
 
 import UIKit
 
@@ -17,3 +17,6 @@ for count in 1...100 {
         print("#\(count) Viva Swift!!!")
     }
 }
+
+
+print(" \t Hola ")
